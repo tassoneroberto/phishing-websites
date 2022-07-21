@@ -4,11 +4,13 @@ Collection of popular phishing websites.
 
 ## List of websites
 
+- Instagram
+  - [v. 2022-07-21 (en)](./instagram/)
 - Facebook
-  - v. 2022-07-20 (en)
-  - v. 2019-06-01 (it)
+  - [v. 2022-07-20 (en)](./facebook/)
+  - [v. 2019-06-01 (it)](./old_versions/facebook_2019-06-01/)
 - Gmail
-  - v. 2019-06-01 (en)
+  - [v. 2019-06-01 (en)](./old_versions/gmail_2019-06-01/)
 
 ## Usage
 
