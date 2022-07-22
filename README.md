@@ -10,7 +10,7 @@ Collection of popular phishing websites.
   - [v. 2022-07-20 (en)](./facebook/)
   - [v. 2019-06-01 (it)](./old_versions/facebook_2019-06-01/)
 - Gmail
-  - [v. 2019-06-01 (en)](./old_versions/gmail_2019-06-01/)
+  - [v. 2019-06-01 (en)](./gmail/)
 
 ## Usage
 
