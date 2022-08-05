@@ -40,13 +40,23 @@ Folder: [./old_versions/facebook_2019-06-01/](./old_versions/facebook_2019-06-01
 
 URL: [https://accounts.google.com/](https://accounts.google.com/)
 
-Date: `2019-06-01`
+Date: `2022-08-05`
 
 Language: `English`
 
 Folder: [./gmail/](./gmail/)
 
-![gmail20190601](gmail/preview.png)
+![gmail20220805](gmail/preview.png)
+
+URL: [https://accounts.google.com/](https://accounts.google.com/)
+
+Date: `2019-06-01`
+
+Language: `English`
+
+Folder: [./old_versions/gmail_2022-08-05/](./old_versions/gmail_2019-06-01/)
+
+![gmail20190601](./old_versions/gmail_2019-06-01/preview.png)
 
 ### TikTok
 
