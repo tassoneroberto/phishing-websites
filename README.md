@@ -38,7 +38,7 @@ Folder: [./old_versions/facebook_2019-06-01/](./old_versions/facebook_2019-06-01
 
 ### Gmail
 
-URL: [https://accounts.google.com/](https://accounts.google.com/)
+URL: [https://mail.google.com/mail/](https://mail.google.com/mail/)
 
 Date: `2022-08-05`
 
@@ -47,8 +47,6 @@ Language: `English`
 Folder: [./gmail/](./gmail/)
 
 ![gmail20220805](gmail/preview.png)
-
-URL: [https://accounts.google.com/](https://accounts.google.com/)
 
 Date: `2019-06-01`
 
