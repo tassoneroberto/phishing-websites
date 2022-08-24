@@ -28,14 +28,6 @@ Folder: [./facebook/](./facebook/)
 
 ![facebook20220720](facebook/preview.png)
 
-Date: `2019-06-01`
-
-Language: `Italian`
-
-Folder: [./old_versions/facebook_2019-06-01/](./old_versions/facebook_2019-06-01/)
-
-![facebook20190601](old_versions/facebook_2019-06-01/preview.png)
-
 ### Gmail
 
 URL: [https://mail.google.com/mail/](https://mail.google.com/mail/)
@@ -47,14 +39,6 @@ Language: `English`
 Folder: [./gmail/](./gmail/)
 
 ![gmail20220805](gmail/preview.png)
-
-Date: `2019-06-01`
-
-Language: `English`
-
-Folder: [./old_versions/gmail_2022-08-05/](./old_versions/gmail_2019-06-01/)
-
-![gmail20190601](./old_versions/gmail_2019-06-01/preview.png)
 
 ### TikTok
 
